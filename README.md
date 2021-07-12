@@ -14,3 +14,7 @@
 可以将ES6转换成ES5的语法
 可以分析模块之间的依赖关系
 生成的JS文件可以再浏览器中运行
+
+
+参考：
+[simple-webpack](./https://gitee.com/geektime-geekbang/geektime-webpack-course/tree/master/code/chapter06/simple-webpack)
